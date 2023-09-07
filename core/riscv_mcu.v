@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer:  Danny Gutierrez
 // 
 // Create Date: 05/31/2023 11:17:48 AM
 // Design Name: 
@@ -10,6 +10,8 @@
 // Target Devices: 
 // Tool Versions: 
 // Description: 
+//  This is a RISC-V MCU that implements the RV32I ISA. 
+// 
 // 
 // Dependencies: 
 // 
